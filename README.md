@@ -1,5 +1,5 @@
 
-# Hash Tables: Exploring Hash Functions and Collision Resolution
+# Exploring Hash Tables and Their Practical Applications
 
 ##  Overview
 
@@ -42,13 +42,13 @@ pip install pandas
 **1. Compare Hash Functions**
 
 ```bash
-python hash_function_comparison.py
+python hashing.py
 ```
 
 **2. Compare Collision Resolution Methods**
 
 ```bash
-python collision_strategy_test.py
+python open_chaining_vs_seperate_chaining.py
 ```
 
 ---
